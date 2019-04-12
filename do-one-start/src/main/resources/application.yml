@@ -1,0 +1,5 @@
+my:
+  name: whc
+  age: 39
+server:
+  port: 8081
